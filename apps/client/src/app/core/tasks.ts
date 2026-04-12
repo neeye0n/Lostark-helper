@@ -155,7 +155,7 @@ export const tasks = [
   }),
     createTask(`Serca`, 1710, TaskFrequency.WEEKLY, TaskScope.CHARACTER, 2, 9999, "kazeros-raid.webp", {
     shared: true,
-    partySize: 8
+    partySize: 4
   }),
 
   // Weekly Roster
