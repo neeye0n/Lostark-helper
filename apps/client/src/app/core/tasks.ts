@@ -158,7 +158,7 @@ export const tasks = [
     shared: true,
     partySize: 4
   }),
-    createTask(`Horizon Cathedral`, 1700, TaskFrequency.WEEKLY, TaskScope.CHARACTER, 2, 9999, "byssal-dungeon.webp", {
+    createTask(`Horizon Cathedral`, 1700, TaskFrequency.WEEKLY, TaskScope.CHARACTER, 2, 9999, "abyssal-dungeon.webp", {
     shared: true,
     partySize: 4
   }),
